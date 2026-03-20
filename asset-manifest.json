@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DevTrails_Phase1/static/css/main.92c8d4eb.css",
+    "main.js": "/DevTrails_Phase1/static/js/main.c766a273.js",
+    "index.html": "/DevTrails_Phase1/index.html",
+    "main.92c8d4eb.css.map": "/DevTrails_Phase1/static/css/main.92c8d4eb.css.map",
+    "main.c766a273.js.map": "/DevTrails_Phase1/static/js/main.c766a273.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.c766a273.js"
+  ]
+}
